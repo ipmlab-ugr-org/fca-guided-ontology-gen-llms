@@ -1,6 +1,8 @@
 # FCA-guided LLM ontology and knowledge graph construction
 
-Code and results for the COMPLEX NETWORKS 2026 paper "Enhancing LLM-Based Ontology and Knowledge Graph Creation via Formal Concept Analysis for Wind-Turbine Maintenance: From Class Recognition to Source-Grounded Construction" (Khan, Bensalem, Chiachio-Ruano, Chiachio-Ruano).
+Code and results for the paper "Enhancing LLM-Based Ontology and Knowledge Graph Creation via Formal Concept Analysis for Wind-Turbine Maintenance: From Class Recognition to Source-Grounded Construction" (Khan, Bensalem, Chiachio-Ruano, Chiachio-Ruano).
+
+Accepted at the Fifteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2026), Granada; the proceedings are published by Springer.
 
 IPM Lab, Universidad de Granada.
 
