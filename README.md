@@ -4,7 +4,7 @@ Code and results for the COMPLEX NETWORKS 2026 paper "Enhancing LLM-Based Ontolo
 
 IPM Lab, Universidad de Granada.
 
-The knowledge graph in this repository was built from an NREL technical report and a Suzlon half-yearly maintenance checklist. The study also used confidential maintenance documents, which are not shared. No source documents are distributed.
+The study used confidential maintenance documents together with an NREL technical report and a Suzlon half-yearly maintenance checklist. The knowledge graph in this repository comes from the NREL and Suzlon documents. The confidential documents and their derived data are not shared, and no source documents are distributed.
 
 ## Contents
 
@@ -12,7 +12,7 @@ The knowledge graph in this repository was built from an NREL technical report a
 |---|---|
 | `experiments/gpt-120b-oss/run_experiment.py` | Construction pilot: GPT-OSS 120B builds a knowledge graph with and without the FCA layer |
 | `experiments/gpt-120b-oss/evaluate_qwen_full.py` | Graph-only question answering with Qwen 3.6 27B |
-| `experiments/gpt-120b-oss/baseline_graph.json` | Extracted knowledge graph (direct condition), built from the NREL report and the Suzlon checklist |
+| `experiments/gpt-120b-oss/baseline_graph.json` | Extracted knowledge graph (direct condition), built from the NREL and Suzlon documents |
 | `experiments/gpt-120b-oss/heldout_questions.json` | The 34 held-out questions |
 | `experiments/gpt-120b-oss/full_qwen_fca_comparison.csv` | Per-question answers and scores, both conditions |
 | `experiments/gpt-120b-oss/paired_stats.py` | Paired comparison and sign test |
