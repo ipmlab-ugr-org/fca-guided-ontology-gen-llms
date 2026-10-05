@@ -1,0 +1,2952 @@
+{
+  "nodes": [
+    {
+      "node_id": "entity:900c13078ece",
+      "label": "report",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:7cb767aa9cbc",
+      "label": "Insights on Wind Turbine Maintenance From the Usage History of a General Electric Transportation Systems Gearbox",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f624d56df65f",
+      "label": "July 2022",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:a8f351b83013",
+      "label": "DE-AC36-08GO28308",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:40a2fd3af82a",
+      "label": "National Renewable Energy Laboratory",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:1973af7b7fb2",
+      "label": "https://www.nrel.gov/docs/fy22osti/82704.pdf",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:478e134c9069",
+      "label": "GE",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:eb425dd6ed1a",
+      "label": "General Electric",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:892d8952b912",
+      "label": "GETS",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0951b7801ac5",
+      "label": "General Electric Transportation Systems",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:3f20f6e0e074",
+      "label": "O&M",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:42ddc082914d",
+      "label": "operations and maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:322d4d6024f4",
+      "label": "micropitting",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6acfd7d99531",
+      "label": "hertzian fatigue damage",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:69f09ad7046b",
+      "label": "ultrafine cracks on the surface of the flank",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:280b95dd4a10",
+      "label": "significant surface damage, macropitting, and catastrophic failure",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d1ef2444600f",
+      "label": "land-based plant operational expenditures",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:120dcdfea789",
+      "label": "turbine operations and maintenance (O&M)",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:48b7f001d9c4",
+      "label": "operational expenditures",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ae821c8c3273",
+      "label": "25% to more than 35% of the levelized cost of energy",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:13e18099805b",
+      "label": "more reliable components and better O&M strategies",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:68eb99041655",
+      "label": "levelized cost of energy by 10% or more for land-based wind plants",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d15719771c0f",
+      "label": "gear damage",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:4c0426110bbc",
+      "label": "bearing damage in wind turbine gearboxes",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8931081e2637",
+      "label": "loads, speeds, temperatures, gear tooth macro- and micro-geometry, flank surface finish, heat treat, and lubricant properties",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:158b1fc30b75",
+      "label": "ISO/TS 6336-22",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0c7b31da6568",
+      "label": "risk of micropitting in gear sets expressed as a safety factor based on the ratio of the minimum to the permissible specific lubricant film thickness",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e048c913c77d",
+      "label": "case study (Method B)",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8b007599ec74",
+      "label": "micropitting to occur",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:47931fa77148",
+      "label": "case study",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f60e5d673e48",
+      "label": "Method A that evaluates the specific film thickness across the entire contact zone",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:20600503b148",
+      "label": "this report",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:858995ee4e0a",
+      "label": "operational history of the gearbox",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:542930087b59",
+      "label": "GE_1.5MW_turbine",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:07121c130f9d",
+      "label": "U.S._Department_of_Energy",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:1c201881b15f",
+      "label": "end_of_September_2009",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:1aaea404e2aa",
+      "label": "GETS_gearbox_7GA87E2",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:06b53d49cddc",
+      "label": "7GA87E2",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:70357f3bee38",
+      "label": "water_content_in_oil",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e2fdbe8ee3b0",
+      "label": "849_ppm",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b476a2cfdc80",
+      "label": "400_to_500_ppm",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d9731dac2559",
+      "label": "oil_water_content_recommendation",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:771cbfac68e0",
+      "label": "300_ppm",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d7f5eda7ab33",
+      "label": "oil_filter",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:68fccb6a2888",
+      "label": "yes",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:71f4723f867f",
+      "label": "borescope_inspection",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:31155ead0556",
+      "label": "by_December_2017",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:4a853a87828d",
+      "label": "turbine_energy_production",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0078705c6a2c",
+      "label": "6_million_kWh",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5083b2188e7b",
+      "label": "gearbox_design_life_utilization",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ea05e63fde36",
+      "label": "8_percent",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f81bc8df3b89",
+      "label": "oil_viscosity",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:82b6fc104d33",
+      "label": "330_to_310_mm2_per_s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:fc51f015adf7",
+      "label": "\u00b110%_of_330_mm2_per_s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c9138a00b24b",
+      "label": "oil_acid_number",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d65dc513c27f",
+      "label": "2.35_to_3.1_mg_KOH_per_g",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e2155506cabb",
+      "label": "oil_particle_counts",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b64129bee912",
+      "label": "20/17/12",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8c74927d9ed8",
+      "label": "21/18/14",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:068a88e960da",
+      "label": "SCADA_10min_data",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:1b5033132a45",
+      "label": "February_17_2010",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:1b13c5e12eac",
+      "label": "845_hours",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b4d5bbaf898f",
+      "label": "low_speed_low_power_condition",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5bbace7b3c72",
+      "label": "rated_rotor_speed_condition",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:711b994cd962",
+      "label": "wind_speed>8_m/s_up_to_25_m/s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5331dc7484e7",
+      "label": "rated_power_achievement",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6038411c8904",
+      "label": "wind_speed>~11_m/s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b20bc8a2c16d",
+      "label": "oil_temperature",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ed0650571f94",
+      "label": "\u224850\u00b0C",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:22e99ebef540",
+      "label": "60\u00b0C",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:546c9760feaa",
+      "label": "wind_turbine_gearbox",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ba66fbdd2b1f",
+      "label": "slightly more than 8 years",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:05727888a5a7",
+      "label": "over 14,000 hours",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0e339797256c",
+      "label": "turbine_operation",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8fbdeb94f842",
+      "label": "low-speed, low-power at rotor speed 11 rpm and torque well under 20% of rated",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:12476d1c82f9",
+      "label": "rated rotor speed 18.3 rpm with torque ranging from 40% to rated",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c33dedff2fae",
+      "label": "approximately 12.7 rpm rotor speed and 20% torque",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:df9af15e3a72",
+      "label": "gearbox_oil_sump_temperature",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5d5bdd04e47d",
+      "label": "40\u00b0C to 60\u00b0C",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:244f34b88e2d",
+      "label": "oil_sample_6/710",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:9745f1e6beed",
+      "label": "845",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:49d7cd4007a3",
+      "label": "326 mm2/s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f53201f998d3",
+      "label": "2.35 mg KOH/g",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5f7ef014596a",
+      "label": "420 ppm",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:cb1e5ac4c27c",
+      "label": "oil_sample_7/11/12",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d13484643b6b",
+      "label": "~4,500",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:54da8167e283",
+      "label": "327 mm2/s",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0328c3fd2a9d",
+      "label": "3.14 mg KOH/g",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:2c2a4f40a4d0",
+      "label": "oil_sample_10/31/12",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:9a6a365ccce5",
+      "label": "5,638",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:cf19b0d3cac2",
+      "label": "2.88 mg KOH/g",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:dd1e8b606013",
+      "label": "435 ppm",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:26ff6063020d",
+      "label": "borescope_11/6/15",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:2959af6f9111",
+      "label": "Onset of micropitting",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:726795a9f287",
+      "label": "gearbox_removal_12/16/17",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b27307d8ce54",
+      "label": "14,174",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:eaa5fa07ac03",
+      "label": "~6,000,000 kWh",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e0658f9d272c",
+      "label": "borescope_4/11/18",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:062d7e230ada",
+      "label": "maintenance_9/14/17",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8101a322e1ad",
+      "label": "Black sludge in oil",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c86613a197a9",
+      "label": "document",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d76f458f1c26",
+      "label": "WDOQ179",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:02389cf90297",
+      "label": "18/07/2007",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d66e369c1161",
+      "label": "maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:075a5e7c444a",
+      "label": "half-yearly",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:34993ae917f9",
+      "label": "wtg",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5b33b81267cd",
+      "label": "588-2.1 MW",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:df6727fb83eb",
+      "label": "checklist",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:7cd11be151ac",
+      "label": "50 H2, 60 H2, Standard Temperature Version (STV), Low Temperature Version (LTV), SUZlON CONTROL SYSTEM (SCS), Tubular tower",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6cfe07694a19",
+      "label": "pre_maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8e405393bcc1",
+      "label": "list \"general data\" on page 17",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:fd9225e85a8a",
+      "label": "look up the remarks of the last maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ffaeb2e32047",
+      "label": "check deviations with O&M Department",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b9519a001e2e",
+      "label": "functional_test",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:841c5497d5e2",
+      "label": "press the push-button, pull it out again after testing",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e52aeee2edec",
+      "label": "device should trip when test button pressed",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:db487607915a",
+      "label": "check maximum temperatures listed in control system and reset the maximum list",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5c3145b12074",
+      "label": "operational_check",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ff0dad4b4331",
+      "label": "listen to generator audio behaviour",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c99f0a7d7b1e",
+      "label": "listen and feel gearbox behaviour during operation",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:9aa3c79f6ec1",
+      "label": "perform functional and audio test of yaw",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6ac986ce4976",
+      "label": "listen to rotor (blades and hub) sound during rotation from nacelle and at 100\u202fm distance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:521e2d9cc810",
+      "label": "tower",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b5cc3f11f4c1",
+      "label": "Visual inspection of the seams for cracks inside of the tower and corrosion from ladder and platforms.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:a2aed2967831",
+      "label": "Visual inspection of the inside of the tower from ladder and platforms.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:87f4f5b4d5ad",
+      "label": "Visual inspection.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:3eac1adf658d",
+      "label": "tower_cable",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ab47354847bc",
+      "label": "Visual inspection especially inside the cable loop, cable holders and at the platforms.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6a84b973c4db",
+      "label": "ladder",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f7524aa83b23",
+      "label": "Visual inspection for cleanliness and damages. Inspect ladder or structure for signs of abrasion.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c0fbca079452",
+      "label": "nacelle.main_bearing",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:4eae17325999",
+      "label": "Remove old grease.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b0fb38c31f72",
+      "label": "Check the quantity (inspection shell) of grease and fill up the grease tank.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:52abeaf6c997",
+      "label": "rotor_shaft",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:014a1c569a88",
+      "label": "Visual check for sliding of main shaft and hollow shaft. Mark shaft and disk with one line and the actual date for later inspection.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c136f3b4f8dd",
+      "label": "gearbox.mechanical_pump",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:edd27e18cd6b",
+      "label": "The functioning of mechanical pump has to be checked by specialized gearbox persons only.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:eec10456946c",
+      "label": "oil",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e3bc39511df1",
+      "label": "Take a 100 ml oil sample for analysis. Refer to Procedure WDOO030.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:666ffdeb4912",
+      "label": "Do not overfill the gear box. Visual check of oil level through oil level glass when the gearbox has been standing still for 30 minutes (for the oil to settle down). Refer to Procedure WDOO030.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:df235bddc850",
+      "label": "hoses",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5a8065190f14",
+      "label": "The guaranteed lifetime for hoses is 5 years. After this period the visual inspections should be more frequent and accurate. An exchange is necessary if found damaged, cut. Check manufacturing date marked on each hose.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:16194f699382",
+      "label": "yaw_system.drive_housings",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:14e9c3c8e4a3",
+      "label": "Visual inspection for cracks.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:478811bc3f51",
+      "label": "yaw_system.leakage",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:dbda93c44833",
+      "label": "Visual inspection for leakages.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:3cee94f82155",
+      "label": "gear_rim_and_pinion",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:05627ad1482c",
+      "label": "Minimum interval: half-yearly; recommended interval: monthly.",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e11ac186db7e",
+      "label": "de_bearing",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b3ea54284740",
+      "label": "minimum half-yearly; recommended %",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:151a95880c30",
+      "label": "nde_bearing",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:bd53bd33b15c",
+      "label": "slip_ring",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:79905f072f85",
+      "label": "WDOOO36",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:544d6160895e",
+      "label": "slip_ring_internal",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:904efb7752c6",
+      "label": "insulation system between the rings and connection to rotor cables",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:76f87687ec90",
+      "label": "fixing_fork",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:31760c33835c",
+      "label": "damages and fretting patches",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5ca068327b31",
+      "label": "rotor_hub",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0990547258ec",
+      "label": "water that might have leaked into the hub",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:44b60e1acdae",
+      "label": "slewing_ring_teeth",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ce7cee1b7cc5",
+      "label": "consult lubrication chart; type; minimum half-yearly; recommended monthly",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d9c8e20e0fe0",
+      "label": "slewing_ring",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8e63acda3ea7",
+      "label": "manual lubrication; consult lubrication chart for type and adjustment; minimum half-yearly; recommended '/4",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:bfafa440a777",
+      "label": "limit_switch_encoder_box",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:fe8dea0f609f",
+      "label": "check the tightness",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:3ce0b111dac6",
+      "label": "pinion_limit_switch_encoder_box",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:bfd60b1a46e0",
+      "label": "teeth must engage fully to avoid slipping",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:6c02f10c0156",
+      "label": "hub_pitch_drive_011_level",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f50e91fc745d",
+      "label": "WDOOO28",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c71e33cc89a0",
+      "label": "battery_box",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b87d1c2b48c4",
+      "label": "open the battery box, check condition of rubber mat",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ac29f1e56c38",
+      "label": "batteries",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b2567f883368",
+      "label": "check for external damage or leakage",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:cd99546f0bd0",
+      "label": "battery_boxes",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:d236a8490007",
+      "label": "check for humidity inside the battery boxes",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:9af3a76ddd82",
+      "label": "battery_cables",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ba2a2ad15ca3",
+      "label": "refasten all clips and connections up to the pitch converter",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b5c7dd0ff18e",
+      "label": "hub_cabinet",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5ce457dece35",
+      "label": "exchange all filter mats",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:3294563e5b00",
+      "label": "hydraulic_aggregate",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:cd410af1d6d8",
+      "label": "cracks, corrosion",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:2dfc34ef03fb",
+      "label": "hydraulic_pipelines",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b62a73db4bec",
+      "label": "corrosion or cracks",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:aac067f5ea76",
+      "label": "maintenance_checkup",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:586f6dd83880",
+      "label": "wind_turbine_generator",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e983ab51f3ac",
+      "label": "1.588-2.1 MW",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:ace9b0eac87c",
+      "label": "project",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:efb470b178d1",
+      "label": "Project name / location",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:359a4d1f8fc7",
+      "label": "wind_turbine",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:41911bcadb11",
+      "label": "Serial number",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:585c09bd25a9",
+      "label": "ambient_conditions",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:07b009db56d7",
+      "label": "Wind speed m/s (10 minute average)",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5dca51ee58ed",
+      "label": "Temperature (outdoor)",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:e440c6a6678a",
+      "label": "Responsible for maintenance work",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c15936713583",
+      "label": "Date of the last maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:b21d6271a059",
+      "label": "Interval of the last maintenance",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:5e18b380221e",
+      "label": "Start date / time:",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:132d62377e9a",
+      "label": "End date / time:",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:c3f495bc8f57",
+      "label": "Maintenance completion",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:bcd3119cef33",
+      "label": "maintenance_tasks",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:8f362437da16",
+      "label": "completed according to the relevant documentation - prl or ill maintenance manual",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:36416a52257e",
+      "label": "record",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:7671d13365b1",
+      "label": "Issue 01 ) 18/07/2.007",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:f75024b47752",
+      "label": "WD00179",
+      "type": "entity"
+    },
+    {
+      "node_id": "entity:0518773eba48",
+      "label": "Class 3",
+      "type": "entity"
+    }
+  ],
+  "statements": [
+    {
+      "statement_id": "nrel_82704_p1-8_c1_1",
+      "subject_id": "entity:900c13078ece",
+      "subject": "report",
+      "subject_type": "entity",
+      "predicate": "has_title",
+      "object_id": "entity:7cb767aa9cbc",
+      "object": "Insights on Wind Turbine Maintenance From the Usage History of a General Electric Transportation Systems Gearbox",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_2",
+      "subject_id": "entity:900c13078ece",
+      "subject": "report",
+      "subject_type": "entity",
+      "predicate": "has_date",
+      "object_id": "entity:f624d56df65f",
+      "object": "July 2022",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_3",
+      "subject_id": "entity:900c13078ece",
+      "subject": "report",
+      "subject_type": "entity",
+      "predicate": "has_contract_number",
+      "object_id": "entity:a8f351b83013",
+      "object": "DE-AC36-08GO28308",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_4",
+      "subject_id": "entity:900c13078ece",
+      "subject": "report",
+      "subject_type": "entity",
+      "predicate": "published_by",
+      "object_id": "entity:40a2fd3af82a",
+      "object": "National Renewable Energy Laboratory",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_5",
+      "subject_id": "entity:900c13078ece",
+      "subject": "report",
+      "subject_type": "entity",
+      "predicate": "has_url",
+      "object_id": "entity:1973af7b7fb2",
+      "object": "https://www.nrel.gov/docs/fy22osti/82704.pdf",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_6",
+      "subject_id": "entity:478e134c9069",
+      "subject": "GE",
+      "subject_type": "entity",
+      "predicate": "stands_for",
+      "object_id": "entity:eb425dd6ed1a",
+      "object": "General Electric",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_7",
+      "subject_id": "entity:892d8952b912",
+      "subject": "GETS",
+      "subject_type": "entity",
+      "predicate": "stands_for",
+      "object_id": "entity:0951b7801ac5",
+      "object": "General Electric Transportation Systems",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_8",
+      "subject_id": "entity:3f20f6e0e074",
+      "subject": "O&M",
+      "subject_type": "entity",
+      "predicate": "stands_for",
+      "object_id": "entity:42ddc082914d",
+      "object": "operations and maintenance",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_9",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "is_form_of",
+      "object_id": "entity:6acfd7d99531",
+      "object": "hertzian fatigue damage",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_10",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "appears_as",
+      "object_id": "entity:69f09ad7046b",
+      "object": "ultrafine cracks on the surface of the flank",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_11",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "can_lead_to",
+      "object_id": "entity:280b95dd4a10",
+      "object": "significant surface damage, macropitting, and catastrophic failure",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_12",
+      "subject_id": "entity:d1ef2444600f",
+      "subject": "land-based plant operational expenditures",
+      "subject_type": "entity",
+      "predicate": "are_associated_directly_with",
+      "object_id": "entity:120dcdfea789",
+      "object": "turbine operations and maintenance (O&M)",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_13",
+      "subject_id": "entity:48b7f001d9c4",
+      "subject": "operational expenditures",
+      "subject_type": "entity",
+      "predicate": "account_for",
+      "object_id": "entity:ae821c8c3273",
+      "object": "25% to more than 35% of the levelized cost of energy",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_14",
+      "subject_id": "entity:13e18099805b",
+      "subject": "more reliable components and better O&M strategies",
+      "subject_type": "entity",
+      "predicate": "could_reduce",
+      "object_id": "entity:68eb99041655",
+      "object": "levelized cost of energy by 10% or more for land-based wind plants",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_15",
+      "subject_id": "entity:d15719771c0f",
+      "subject": "gear damage",
+      "subject_type": "entity",
+      "predicate": "occurs_less_frequently_than",
+      "object_id": "entity:4c0426110bbc",
+      "object": "bearing damage in wind turbine gearboxes",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_16",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "is_influenced_by",
+      "object_id": "entity:8931081e2637",
+      "object": "loads, speeds, temperatures, gear tooth macro- and micro-geometry, flank surface finish, heat treat, and lubricant properties",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_17",
+      "subject_id": "entity:158b1fc30b75",
+      "subject": "ISO/TS 6336-22",
+      "subject_type": "entity",
+      "predicate": "contains_calculation_of",
+      "object_id": "entity:0c7b31da6568",
+      "object": "risk of micropitting in gear sets expressed as a safety factor based on the ratio of the minimum to the permissible specific lubricant film thickness",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_18",
+      "subject_id": "entity:e048c913c77d",
+      "subject": "case study (Method B)",
+      "subject_type": "entity",
+      "predicate": "did_not_predict",
+      "object_id": "entity:8b007599ec74",
+      "object": "micropitting to occur",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_19",
+      "subject_id": "entity:47931fa77148",
+      "subject": "case study",
+      "subject_type": "entity",
+      "predicate": "is_being_extended_to",
+      "object_id": "entity:f60e5d673e48",
+      "object": "Method A that evaluates the specific film thickness across the entire contact zone",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p1-8_c1_20",
+      "subject_id": "entity:20600503b148",
+      "subject": "this report",
+      "subject_type": "entity",
+      "predicate": "summarizes",
+      "object_id": "entity:858995ee4e0a",
+      "object": "operational history of the gearbox",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "1-8",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_1",
+      "subject_id": "entity:542930087b59",
+      "subject": "GE_1.5MW_turbine",
+      "subject_type": "entity",
+      "predicate": "installed_by",
+      "object_id": "entity:07121c130f9d",
+      "object": "U.S._Department_of_Energy",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_2",
+      "subject_id": "entity:542930087b59",
+      "subject": "GE_1.5MW_turbine",
+      "subject_type": "entity",
+      "predicate": "commissioned_at",
+      "object_id": "entity:1c201881b15f",
+      "object": "end_of_September_2009",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_3",
+      "subject_id": "entity:1aaea404e2aa",
+      "subject": "GETS_gearbox_7GA87E2",
+      "subject_type": "entity",
+      "predicate": "model_number",
+      "object_id": "entity:06b53d49cddc",
+      "object": "7GA87E2",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_4",
+      "subject_id": "entity:70357f3bee38",
+      "subject": "water_content_in_oil",
+      "subject_type": "entity",
+      "predicate": "recorded_at",
+      "object_id": "entity:e2fdbe8ee3b0",
+      "object": "849_ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_5",
+      "subject_id": "entity:70357f3bee38",
+      "subject": "water_content_in_oil",
+      "subject_type": "entity",
+      "predicate": "returned_to_normal_range",
+      "object_id": "entity:b476a2cfdc80",
+      "object": "400_to_500_ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_6",
+      "subject_id": "entity:d9731dac2559",
+      "subject": "oil_water_content_recommendation",
+      "subject_type": "entity",
+      "predicate": "recommended_maximum",
+      "object_id": "entity:771cbfac68e0",
+      "object": "300_ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_7",
+      "subject_id": "entity:d7f5eda7ab33",
+      "subject": "oil_filter",
+      "subject_type": "entity",
+      "predicate": "particles_noted",
+      "object_id": "entity:68fccb6a2888",
+      "object": "yes",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_8",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "first_detected_during",
+      "object_id": "entity:71f4723f867f",
+      "object": "borescope_inspection",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_9",
+      "subject_id": "entity:322d4d6024f4",
+      "subject": "micropitting",
+      "subject_type": "entity",
+      "predicate": "progressed_to_state_shown_in_figure1",
+      "object_id": "entity:31155ead0556",
+      "object": "by_December_2017",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_10",
+      "subject_id": "entity:4a853a87828d",
+      "subject": "turbine_energy_production",
+      "subject_type": "entity",
+      "predicate": "produced",
+      "object_id": "entity:0078705c6a2c",
+      "object": "6_million_kWh",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_11",
+      "subject_id": "entity:5083b2188e7b",
+      "subject": "gearbox_design_life_utilization",
+      "subject_type": "entity",
+      "predicate": "percentage_used",
+      "object_id": "entity:ea05e63fde36",
+      "object": "8_percent",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_12",
+      "subject_id": "entity:f81bc8df3b89",
+      "subject": "oil_viscosity",
+      "subject_type": "entity",
+      "predicate": "stable_range",
+      "object_id": "entity:82b6fc104d33",
+      "object": "330_to_310_mm2_per_s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_13",
+      "subject_id": "entity:f81bc8df3b89",
+      "subject": "oil_viscosity",
+      "subject_type": "entity",
+      "predicate": "within_recommended_range",
+      "object_id": "entity:fc51f015adf7",
+      "object": "\u00b110%_of_330_mm2_per_s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_14",
+      "subject_id": "entity:c9138a00b24b",
+      "subject": "oil_acid_number",
+      "subject_type": "entity",
+      "predicate": "range",
+      "object_id": "entity:d65dc513c27f",
+      "object": "2.35_to_3.1_mg_KOH_per_g",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_15",
+      "subject_id": "entity:e2155506cabb",
+      "subject": "oil_particle_counts",
+      "subject_type": "entity",
+      "predicate": "early_operation_range",
+      "object_id": "entity:b64129bee912",
+      "object": "20/17/12",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_16",
+      "subject_id": "entity:e2155506cabb",
+      "subject": "oil_particle_counts",
+      "subject_type": "entity",
+      "predicate": "pre_removal_range",
+      "object_id": "entity:8c74927d9ed8",
+      "object": "21/18/14",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_17",
+      "subject_id": "entity:068a88e960da",
+      "subject": "SCADA_10min_data",
+      "subject_type": "entity",
+      "predicate": "start_date",
+      "object_id": "entity:1b5033132a45",
+      "object": "February_17_2010",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_18",
+      "subject_id": "entity:068a88e960da",
+      "subject": "SCADA_10min_data",
+      "subject_type": "entity",
+      "predicate": "missing_hours_estimate",
+      "object_id": "entity:1b13c5e12eac",
+      "object": "845_hours",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_19",
+      "subject_id": "entity:b4d5bbaf898f",
+      "subject": "low_speed_low_power_condition",
+      "subject_type": "entity",
+      "predicate": "most_common_operating_condition",
+      "object_id": "entity:68fccb6a2888",
+      "object": "yes",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_20",
+      "subject_id": "entity:5bbace7b3c72",
+      "subject": "rated_rotor_speed_condition",
+      "subject_type": "entity",
+      "predicate": "occurs_when",
+      "object_id": "entity:711b994cd962",
+      "object": "wind_speed>8_m/s_up_to_25_m/s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_21",
+      "subject_id": "entity:5331dc7484e7",
+      "subject": "rated_power_achievement",
+      "subject_type": "entity",
+      "predicate": "occurs_when",
+      "object_id": "entity:6038411c8904",
+      "object": "wind_speed>~11_m/s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_22",
+      "subject_id": "entity:b20bc8a2c16d",
+      "subject": "oil_temperature",
+      "subject_type": "entity",
+      "predicate": "most_common_value",
+      "object_id": "entity:ed0650571f94",
+      "object": "\u224850\u00b0C",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p9-13_c2_23",
+      "subject_id": "entity:b20bc8a2c16d",
+      "subject": "oil_temperature",
+      "subject_type": "entity",
+      "predicate": "rarely_above",
+      "object_id": "entity:22e99ebef540",
+      "object": "60\u00b0C",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "9-13",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_1",
+      "subject_id": "entity:546c9760feaa",
+      "subject": "wind_turbine_gearbox",
+      "subject_type": "entity",
+      "predicate": "installed_duration",
+      "object_id": "entity:ba66fbdd2b1f",
+      "object": "slightly more than 8 years",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_2",
+      "subject_id": "entity:546c9760feaa",
+      "subject": "wind_turbine_gearbox",
+      "subject_type": "entity",
+      "predicate": "operational_hours",
+      "object_id": "entity:05727888a5a7",
+      "object": "over 14,000 hours",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_3",
+      "subject_id": "entity:0e339797256c",
+      "subject": "turbine_operation",
+      "subject_type": "entity",
+      "predicate": "most_common_condition",
+      "object_id": "entity:8fbdeb94f842",
+      "object": "low-speed, low-power at rotor speed 11 rpm and torque well under 20% of rated",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_4",
+      "subject_id": "entity:0e339797256c",
+      "subject": "turbine_operation",
+      "subject_type": "entity",
+      "predicate": "second_common_condition",
+      "object_id": "entity:12476d1c82f9",
+      "object": "rated rotor speed 18.3 rpm with torque ranging from 40% to rated",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_5",
+      "subject_id": "entity:0e339797256c",
+      "subject": "turbine_operation",
+      "subject_type": "entity",
+      "predicate": "additional_condition",
+      "object_id": "entity:c33dedff2fae",
+      "object": "approximately 12.7 rpm rotor speed and 20% torque",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_6",
+      "subject_id": "entity:df9af15e3a72",
+      "subject": "gearbox_oil_sump_temperature",
+      "subject_type": "entity",
+      "predicate": "range",
+      "object_id": "entity:5d5bdd04e47d",
+      "object": "40\u00b0C to 60\u00b0C",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_7",
+      "subject_id": "entity:244f34b88e2d",
+      "subject": "oil_sample_6/710",
+      "subject_type": "entity",
+      "predicate": "production_hours",
+      "object_id": "entity:9745f1e6beed",
+      "object": "845",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_8",
+      "subject_id": "entity:244f34b88e2d",
+      "subject": "oil_sample_6/710",
+      "subject_type": "entity",
+      "predicate": "viscosity_at_40c",
+      "object_id": "entity:49d7cd4007a3",
+      "object": "326 mm2/s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_9",
+      "subject_id": "entity:244f34b88e2d",
+      "subject": "oil_sample_6/710",
+      "subject_type": "entity",
+      "predicate": "acid_number",
+      "object_id": "entity:f53201f998d3",
+      "object": "2.35 mg KOH/g",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_10",
+      "subject_id": "entity:244f34b88e2d",
+      "subject": "oil_sample_6/710",
+      "subject_type": "entity",
+      "predicate": "water_content_ppm",
+      "object_id": "entity:5f7ef014596a",
+      "object": "420 ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_11",
+      "subject_id": "entity:cb1e5ac4c27c",
+      "subject": "oil_sample_7/11/12",
+      "subject_type": "entity",
+      "predicate": "production_hours",
+      "object_id": "entity:d13484643b6b",
+      "object": "~4,500",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_12",
+      "subject_id": "entity:cb1e5ac4c27c",
+      "subject": "oil_sample_7/11/12",
+      "subject_type": "entity",
+      "predicate": "viscosity_at_40c",
+      "object_id": "entity:54da8167e283",
+      "object": "327 mm2/s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_13",
+      "subject_id": "entity:cb1e5ac4c27c",
+      "subject": "oil_sample_7/11/12",
+      "subject_type": "entity",
+      "predicate": "acid_number",
+      "object_id": "entity:0328c3fd2a9d",
+      "object": "3.14 mg KOH/g",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_14",
+      "subject_id": "entity:cb1e5ac4c27c",
+      "subject": "oil_sample_7/11/12",
+      "subject_type": "entity",
+      "predicate": "water_content_ppm",
+      "object_id": "entity:e2fdbe8ee3b0",
+      "object": "849 ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_15",
+      "subject_id": "entity:2c2a4f40a4d0",
+      "subject": "oil_sample_10/31/12",
+      "subject_type": "entity",
+      "predicate": "production_hours",
+      "object_id": "entity:9a6a365ccce5",
+      "object": "5,638",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_16",
+      "subject_id": "entity:2c2a4f40a4d0",
+      "subject": "oil_sample_10/31/12",
+      "subject_type": "entity",
+      "predicate": "viscosity_at_40c",
+      "object_id": "entity:49d7cd4007a3",
+      "object": "326 mm2/s",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_17",
+      "subject_id": "entity:2c2a4f40a4d0",
+      "subject": "oil_sample_10/31/12",
+      "subject_type": "entity",
+      "predicate": "acid_number",
+      "object_id": "entity:cf19b0d3cac2",
+      "object": "2.88 mg KOH/g",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_18",
+      "subject_id": "entity:2c2a4f40a4d0",
+      "subject": "oil_sample_10/31/12",
+      "subject_type": "entity",
+      "predicate": "water_content_ppm",
+      "object_id": "entity:dd1e8b606013",
+      "object": "435 ppm",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_19",
+      "subject_id": "entity:26ff6063020d",
+      "subject": "borescope_11/6/15",
+      "subject_type": "entity",
+      "predicate": "observation",
+      "object_id": "entity:2959af6f9111",
+      "object": "Onset of micropitting",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_20",
+      "subject_id": "entity:726795a9f287",
+      "subject": "gearbox_removal_12/16/17",
+      "subject_type": "entity",
+      "predicate": "production_hours_at_removal",
+      "object_id": "entity:b27307d8ce54",
+      "object": "14,174",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_21",
+      "subject_id": "entity:726795a9f287",
+      "subject": "gearbox_removal_12/16/17",
+      "subject_type": "entity",
+      "predicate": "cumulative_production_kwh",
+      "object_id": "entity:eaa5fa07ac03",
+      "object": "~6,000,000 kWh",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_22",
+      "subject_id": "entity:e0658f9d272c",
+      "subject": "borescope_4/11/18",
+      "subject_type": "entity",
+      "predicate": "observation",
+      "object_id": "entity:322d4d6024f4",
+      "object": "Micropitting",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "nrel_82704_p14-17_c3_23",
+      "subject_id": "entity:062d7e230ada",
+      "subject": "maintenance_9/14/17",
+      "subject_type": "entity",
+      "predicate": "observation",
+      "object_id": "entity:8101a322e1ad",
+      "object": "Black sludge in oil",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "nrel_82704",
+      "page": "14-17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_1",
+      "subject_id": "entity:c86613a197a9",
+      "subject": "document",
+      "subject_type": "entity",
+      "predicate": "has_number",
+      "object_id": "entity:d76f458f1c26",
+      "object": "WDOQ179",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_2",
+      "subject_id": "entity:c86613a197a9",
+      "subject": "document",
+      "subject_type": "entity",
+      "predicate": "has_issue_date",
+      "object_id": "entity:02389cf90297",
+      "object": "18/07/2007",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_3",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "interval",
+      "object_id": "entity:075a5e7c444a",
+      "object": "half-yearly",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_4",
+      "subject_id": "entity:34993ae917f9",
+      "subject": "wtg",
+      "subject_type": "entity",
+      "predicate": "model_power",
+      "object_id": "entity:5b33b81267cd",
+      "object": "588-2.1 MW",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_5",
+      "subject_id": "entity:df6727fb83eb",
+      "subject": "checklist",
+      "subject_type": "entity",
+      "predicate": "valid_for_versions",
+      "object_id": "entity:7cd11be151ac",
+      "object": "50 H2, 60 H2, Standard Temperature Version (STV), Low Temperature Version (LTV), SUZlON CONTROL SYSTEM (SCS), Tubular tower",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_6",
+      "subject_id": "entity:6cfe07694a19",
+      "subject": "pre_maintenance",
+      "subject_type": "entity",
+      "predicate": "requires_fill_general_data",
+      "object_id": "entity:8e405393bcc1",
+      "object": "list \"general data\" on page 17",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_7",
+      "subject_id": "entity:6cfe07694a19",
+      "subject": "pre_maintenance",
+      "subject_type": "entity",
+      "predicate": "requires_review_last_remarks",
+      "object_id": "entity:fd9225e85a8a",
+      "object": "look up the remarks of the last maintenance",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_8",
+      "subject_id": "entity:6cfe07694a19",
+      "subject": "pre_maintenance",
+      "subject_type": "entity",
+      "predicate": "requires_deviation_check",
+      "object_id": "entity:ffaeb2e32047",
+      "object": "check deviations with O&M Department",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_9",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "emergency_stop_bottom_cabinet_operation",
+      "object_id": "entity:841c5497d5e2",
+      "object": "press the push-button, pull it out again after testing",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_10",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "emergency_stop_bottom_cabinet_idling",
+      "object_id": "entity:841c5497d5e2",
+      "object": "press the push-button, pull it out again after testing",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_11",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "emergency_stop_bottom_trco_idling",
+      "object_id": "entity:841c5497d5e2",
+      "object": "press the push-button, pull it out again after testing",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_12",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "emergency_stop_top_cabinet_idling",
+      "object_id": "entity:841c5497d5e2",
+      "object": "press the push-button, pull it out again after testing",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_13",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "emergency_stop_yaw_platform_idling",
+      "object_id": "entity:841c5497d5e2",
+      "object": "press the push-button, pull it out again after testing",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_14",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "earth_leakage_bottom_rccb",
+      "object_id": "entity:e52aeee2edec",
+      "object": "device should trip when test button pressed",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_15",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "earth_leakage_top_rccb",
+      "object_id": "entity:e52aeee2edec",
+      "object": "device should trip when test button pressed",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_16",
+      "subject_id": "entity:b9519a001e2e",
+      "subject": "functional_test",
+      "subject_type": "entity",
+      "predicate": "temperature_check",
+      "object_id": "entity:db487607915a",
+      "object": "check maximum temperatures listed in control system and reset the maximum list",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_17",
+      "subject_id": "entity:5c3145b12074",
+      "subject": "operational_check",
+      "subject_type": "entity",
+      "predicate": "audio_check_generator",
+      "object_id": "entity:ff0dad4b4331",
+      "object": "listen to generator audio behaviour",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_18",
+      "subject_id": "entity:5c3145b12074",
+      "subject": "operational_check",
+      "subject_type": "entity",
+      "predicate": "audio_check_gearbox",
+      "object_id": "entity:c99f0a7d7b1e",
+      "object": "listen and feel gearbox behaviour during operation",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_19",
+      "subject_id": "entity:5c3145b12074",
+      "subject": "operational_check",
+      "subject_type": "entity",
+      "predicate": "functional_audio_test_yaw",
+      "object_id": "entity:9aa3c79f6ec1",
+      "object": "perform functional and audio test of yaw",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p1-5_c1_20",
+      "subject_id": "entity:5c3145b12074",
+      "subject": "operational_check",
+      "subject_type": "entity",
+      "predicate": "sound_check_rotor",
+      "object_id": "entity:6ac986ce4976",
+      "object": "listen to rotor (blades and hub) sound during rotation from nacelle and at 100\u202fm distance",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "1-5",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_1",
+      "subject_id": "entity:521e2d9cc810",
+      "subject": "tower",
+      "subject_type": "entity",
+      "predicate": "check_welding",
+      "object_id": "entity:b5cc3f11f4c1",
+      "object": "Visual inspection of the seams for cracks inside of the tower and corrosion from ladder and platforms.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_2",
+      "subject_id": "entity:521e2d9cc810",
+      "subject": "tower",
+      "subject_type": "entity",
+      "predicate": "check_corrosion_or_cracks_inside",
+      "object_id": "entity:a2aed2967831",
+      "object": "Visual inspection of the inside of the tower from ladder and platforms.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_3",
+      "subject_id": "entity:521e2d9cc810",
+      "subject": "tower",
+      "subject_type": "entity",
+      "predicate": "paint_damage_bottom_outside",
+      "object_id": "entity:87f4f5b4d5ad",
+      "object": "Visual inspection.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_4",
+      "subject_id": "entity:521e2d9cc810",
+      "subject": "tower",
+      "subject_type": "entity",
+      "predicate": "paint_damage_inside",
+      "object_id": "entity:a2aed2967831",
+      "object": "Visual inspection of the inside of the tower from ladder and platforms.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_5",
+      "subject_id": "entity:3eac1adf658d",
+      "subject": "tower_cable",
+      "subject_type": "entity",
+      "predicate": "damaged_insulation",
+      "object_id": "entity:ab47354847bc",
+      "object": "Visual inspection especially inside the cable loop, cable holders and at the platforms.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_6",
+      "subject_id": "entity:6a84b973c4db",
+      "subject": "ladder",
+      "subject_type": "entity",
+      "predicate": "safety_system",
+      "object_id": "entity:f7524aa83b23",
+      "object": "Visual inspection for cleanliness and damages. Inspect ladder or structure for signs of abrasion.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_7",
+      "subject_id": "entity:c0fbca079452",
+      "subject": "nacelle.main_bearing",
+      "subject_type": "entity",
+      "predicate": "grease_collection",
+      "object_id": "entity:4eae17325999",
+      "object": "Remove old grease.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_8",
+      "subject_id": "entity:c0fbca079452",
+      "subject": "nacelle.main_bearing",
+      "subject_type": "entity",
+      "predicate": "central_lubrication_check_quantity",
+      "object_id": "entity:b0fb38c31f72",
+      "object": "Check the quantity (inspection shell) of grease and fill up the grease tank.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_9",
+      "subject_id": "entity:52abeaf6c997",
+      "subject": "rotor_shaft",
+      "subject_type": "entity",
+      "predicate": "shaft_connection_visual_check",
+      "object_id": "entity:014a1c569a88",
+      "object": "Visual check for sliding of main shaft and hollow shaft. Mark shaft and disk with one line and the actual date for later inspection.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_10",
+      "subject_id": "entity:c136f3b4f8dd",
+      "subject": "gearbox.mechanical_pump",
+      "subject_type": "entity",
+      "predicate": "warning_check",
+      "object_id": "entity:edd27e18cd6b",
+      "object": "The functioning of mechanical pump has to be checked by specialized gearbox persons only.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_11",
+      "subject_id": "entity:eec10456946c",
+      "subject": "oil",
+      "subject_type": "entity",
+      "predicate": "sample",
+      "object_id": "entity:e3bc39511df1",
+      "object": "Take a 100 ml oil sample for analysis. Refer to Procedure WDOO030.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_12",
+      "subject_id": "entity:eec10456946c",
+      "subject": "oil",
+      "subject_type": "entity",
+      "predicate": "level_notice",
+      "object_id": "entity:666ffdeb4912",
+      "object": "Do not overfill the gear box. Visual check of oil level through oil level glass when the gearbox has been standing still for 30 minutes (for the oil to settle down). Refer to Procedure WDOO030.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_13",
+      "subject_id": "entity:df235bddc850",
+      "subject": "hoses",
+      "subject_type": "entity",
+      "predicate": "lifetime",
+      "object_id": "entity:5a8065190f14",
+      "object": "The guaranteed lifetime for hoses is 5 years. After this period the visual inspections should be more frequent and accurate. An exchange is necessary if found damaged, cut. Check manufacturing date marked on each hose.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_14",
+      "subject_id": "entity:16194f699382",
+      "subject": "yaw_system.drive_housings",
+      "subject_type": "entity",
+      "predicate": "visual_inspection_cracks",
+      "object_id": "entity:14e9c3c8e4a3",
+      "object": "Visual inspection for cracks.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_15",
+      "subject_id": "entity:478811bc3f51",
+      "subject": "yaw_system.leakage",
+      "subject_type": "entity",
+      "predicate": "visual_inspection_leakages",
+      "object_id": "entity:dbda93c44833",
+      "object": "Visual inspection for leakages.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_16",
+      "subject_id": "entity:3cee94f82155",
+      "subject": "gear_rim_and_pinion",
+      "subject_type": "entity",
+      "predicate": "visual_inspection",
+      "object_id": "entity:87f4f5b4d5ad",
+      "object": "Visual Inspection.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p6-9_c2_17",
+      "subject_id": "entity:3cee94f82155",
+      "subject": "gear_rim_and_pinion",
+      "subject_type": "entity",
+      "predicate": "grease_interval",
+      "object_id": "entity:05627ad1482c",
+      "object": "Minimum interval: half-yearly; recommended interval: monthly.",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "6-9",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_1",
+      "subject_id": "entity:e11ac186db7e",
+      "subject": "de_bearing",
+      "subject_type": "entity",
+      "predicate": "grease_interval",
+      "object_id": "entity:b3ea54284740",
+      "object": "minimum half-yearly; recommended %",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_2",
+      "subject_id": "entity:151a95880c30",
+      "subject": "nde_bearing",
+      "subject_type": "entity",
+      "predicate": "grease_interval",
+      "object_id": "entity:b3ea54284740",
+      "object": "minimum half-yearly; recommended %",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_3",
+      "subject_id": "entity:bd53bd33b15c",
+      "subject": "slip_ring",
+      "subject_type": "entity",
+      "predicate": "cleaning_procedure",
+      "object_id": "entity:79905f072f85",
+      "object": "WDOOO36",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_4",
+      "subject_id": "entity:544d6160895e",
+      "subject": "slip_ring_internal",
+      "subject_type": "entity",
+      "predicate": "visual_inspection",
+      "object_id": "entity:904efb7752c6",
+      "object": "insulation system between the rings and connection to rotor cables",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_5",
+      "subject_id": "entity:76f87687ec90",
+      "subject": "fixing_fork",
+      "subject_type": "entity",
+      "predicate": "visual_inspection",
+      "object_id": "entity:31760c33835c",
+      "object": "damages and fretting patches",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_6",
+      "subject_id": "entity:5ca068327b31",
+      "subject": "rotor_hub",
+      "subject_type": "entity",
+      "predicate": "leak_tightness_inspection",
+      "object_id": "entity:0990547258ec",
+      "object": "water that might have leaked into the hub",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_7",
+      "subject_id": "entity:44b60e1acdae",
+      "subject": "slewing_ring_teeth",
+      "subject_type": "entity",
+      "predicate": "lubrication_notice",
+      "object_id": "entity:ce7cee1b7cc5",
+      "object": "consult lubrication chart; type; minimum half-yearly; recommended monthly",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_8",
+      "subject_id": "entity:d9c8e20e0fe0",
+      "subject": "slewing_ring",
+      "subject_type": "entity",
+      "predicate": "greasing_method",
+      "object_id": "entity:8e63acda3ea7",
+      "object": "manual lubrication; consult lubrication chart for type and adjustment; minimum half-yearly; recommended '/4",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_9",
+      "subject_id": "entity:bfafa440a777",
+      "subject": "limit_switch_encoder_box",
+      "subject_type": "entity",
+      "predicate": "tightness_check",
+      "object_id": "entity:fe8dea0f609f",
+      "object": "check the tightness",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_10",
+      "subject_id": "entity:3ce0b111dac6",
+      "subject": "pinion_limit_switch_encoder_box",
+      "subject_type": "entity",
+      "predicate": "engagement_requirement",
+      "object_id": "entity:bfd60b1a46e0",
+      "object": "teeth must engage fully to avoid slipping",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_11",
+      "subject_id": "entity:6c02f10c0156",
+      "subject": "hub_pitch_drive_011_level",
+      "subject_type": "entity",
+      "predicate": "inspection_procedure",
+      "object_id": "entity:f50e91fc745d",
+      "object": "WDOOO28",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_12",
+      "subject_id": "entity:c71e33cc89a0",
+      "subject": "battery_box",
+      "subject_type": "entity",
+      "predicate": "open_and_check_rubber_mat",
+      "object_id": "entity:b87d1c2b48c4",
+      "object": "open the battery box, check condition of rubber mat",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_13",
+      "subject_id": "entity:ac29f1e56c38",
+      "subject": "batteries",
+      "subject_type": "entity",
+      "predicate": "external_damage_check",
+      "object_id": "entity:b2567f883368",
+      "object": "check for external damage or leakage",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_14",
+      "subject_id": "entity:cd99546f0bd0",
+      "subject": "battery_boxes",
+      "subject_type": "entity",
+      "predicate": "humidity_check",
+      "object_id": "entity:d236a8490007",
+      "object": "check for humidity inside the battery boxes",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_15",
+      "subject_id": "entity:9af3a76ddd82",
+      "subject": "battery_cables",
+      "subject_type": "entity",
+      "predicate": "refasten_connections",
+      "object_id": "entity:ba2a2ad15ca3",
+      "object": "refasten all clips and connections up to the pitch converter",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_16",
+      "subject_id": "entity:b5c7dd0ff18e",
+      "subject": "hub_cabinet",
+      "subject_type": "entity",
+      "predicate": "filter_mats_exchange",
+      "object_id": "entity:5ce457dece35",
+      "object": "exchange all filter mats",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_17",
+      "subject_id": "entity:3294563e5b00",
+      "subject": "hydraulic_aggregate",
+      "subject_type": "entity",
+      "predicate": "visual_check",
+      "object_id": "entity:cd410af1d6d8",
+      "object": "cracks, corrosion",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p10-16_c3_18",
+      "subject_id": "entity:2dfc34ef03fb",
+      "subject": "hydraulic_pipelines",
+      "subject_type": "entity",
+      "predicate": "visual_check",
+      "object_id": "entity:b62a73db4bec",
+      "object": "corrosion or cracks",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "10-16",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_1",
+      "subject_id": "entity:aac067f5ea76",
+      "subject": "maintenance_checkup",
+      "subject_type": "entity",
+      "predicate": "type",
+      "object_id": "entity:075a5e7c444a",
+      "object": "half-yearly",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_2",
+      "subject_id": "entity:586f6dd83880",
+      "subject": "wind_turbine_generator",
+      "subject_type": "entity",
+      "predicate": "capacity",
+      "object_id": "entity:e983ab51f3ac",
+      "object": "1.588-2.1 MW",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_3",
+      "subject_id": "entity:ace9b0eac87c",
+      "subject": "project",
+      "subject_type": "entity",
+      "predicate": "name_location",
+      "object_id": "entity:efb470b178d1",
+      "object": "Project name / location",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_4",
+      "subject_id": "entity:359a4d1f8fc7",
+      "subject": "wind_turbine",
+      "subject_type": "entity",
+      "predicate": "serial_number",
+      "object_id": "entity:41911bcadb11",
+      "object": "Serial number",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_5",
+      "subject_id": "entity:585c09bd25a9",
+      "subject": "ambient_conditions",
+      "subject_type": "entity",
+      "predicate": "wind_speed",
+      "object_id": "entity:07b009db56d7",
+      "object": "Wind speed m/s (10 minute average)",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_6",
+      "subject_id": "entity:585c09bd25a9",
+      "subject": "ambient_conditions",
+      "subject_type": "entity",
+      "predicate": "temperature_outdoor",
+      "object_id": "entity:5dca51ee58ed",
+      "object": "Temperature (outdoor)",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_7",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "responsible_party",
+      "object_id": "entity:e440c6a6678a",
+      "object": "Responsible for maintenance work",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_8",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "last_date",
+      "object_id": "entity:c15936713583",
+      "object": "Date of the last maintenance",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_9",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "last_interval",
+      "object_id": "entity:b21d6271a059",
+      "object": "Interval of the last maintenance",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_10",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "start_date_time",
+      "object_id": "entity:5e18b380221e",
+      "object": "Start date / time:",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_11",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "end_date_time",
+      "object_id": "entity:132d62377e9a",
+      "object": "End date / time:",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_12",
+      "subject_id": "entity:d66e369c1161",
+      "subject": "maintenance",
+      "subject_type": "entity",
+      "predicate": "completion",
+      "object_id": "entity:c3f495bc8f57",
+      "object": "Maintenance completion",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_13",
+      "subject_id": "entity:bcd3119cef33",
+      "subject": "maintenance_tasks",
+      "subject_type": "entity",
+      "predicate": "status",
+      "object_id": "entity:8f362437da16",
+      "object": "completed according to the relevant documentation - prl or ill maintenance manual",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_14",
+      "subject_id": "entity:36416a52257e",
+      "subject": "record",
+      "subject_type": "entity",
+      "predicate": "date",
+      "object_id": "entity:7671d13365b1",
+      "object": "Issue 01 ) 18/07/2.007",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_15",
+      "subject_id": "entity:36416a52257e",
+      "subject": "record",
+      "subject_type": "entity",
+      "predicate": "identifier",
+      "object_id": "entity:f75024b47752",
+      "object": "WD00179",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    },
+    {
+      "statement_id": "suzlon_wdoq179_p17_c4_16",
+      "subject_id": "entity:36416a52257e",
+      "subject": "record",
+      "subject_type": "entity",
+      "predicate": "class",
+      "object_id": "entity:0518773eba48",
+      "object": "Class 3",
+      "object_type": "entity",
+      "qualifiers": [],
+      "document_id": "suzlon_wdoq179",
+      "page": "17",
+      "confidence": 0.7
+    }
+  ],
+  "fca": {
+    "concepts": []
+  }
+}

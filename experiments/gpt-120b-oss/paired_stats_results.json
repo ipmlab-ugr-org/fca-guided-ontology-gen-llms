@@ -1,0 +1,57 @@
+{
+ "exact_correct": {
+  "fca_wins": 3,
+  "direct_wins": 1,
+  "ties": 30,
+  "mean_diff": 0.059,
+  "boot95": [
+   -0.059,
+   0.176
+  ],
+  "sign_test_p": 0.625
+ },
+ "grounded": {
+  "fca_wins": 6,
+  "direct_wins": 1,
+  "ties": 27,
+  "mean_diff": 0.147,
+  "boot95": [
+   0.0,
+   0.294
+  ],
+  "sign_test_p": 0.125
+ },
+ "valid_citation": {
+  "fca_wins": 3,
+  "direct_wins": 2,
+  "ties": 29,
+  "mean_diff": 0.029,
+  "boot95": [
+   -0.088,
+   0.147
+  ],
+  "sign_test_p": 1.0
+ },
+ "atom_recall": {
+  "fca_wins": 4,
+  "direct_wins": 2,
+  "ties": 28,
+  "mean_diff": 0.04,
+  "boot95": [
+   -0.068,
+   0.158
+  ],
+  "sign_test_p": 0.688
+ },
+ "unsupported": {
+  "fca_wins": 0,
+  "direct_wins": 0,
+  "ties": 34,
+  "mean_diff": 0.0,
+  "boot95": [
+   0.0,
+   0.0
+  ],
+  "sign_test_p": 1.0
+ }
+}

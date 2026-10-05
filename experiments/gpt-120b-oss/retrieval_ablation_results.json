@@ -1,0 +1,76 @@
+{
+ "summary": {
+  "direct": {
+   "statements": 137,
+   "mean_atom_coverage": 0.612,
+   "questions_fully_covered": 16,
+   "mean_retrieved": 14.0,
+   "mean_fca_derived_share": 0.0
+  },
+  "fca_full": {
+   "statements": 410,
+   "mean_atom_coverage": 0.602,
+   "questions_fully_covered": 16,
+   "mean_retrieved": 15.4,
+   "mean_fca_derived_share": 0.432
+  },
+  "fca_without_broad": {
+   "statements": 186,
+   "mean_atom_coverage": 0.612,
+   "questions_fully_covered": 16,
+   "mean_retrieved": 14.4,
+   "mean_fca_derived_share": 0.2
+  },
+  "fca_only_broad": {
+   "statements": 361,
+   "mean_atom_coverage": 0.612,
+   "questions_fully_covered": 16,
+   "mean_retrieved": 15.4,
+   "mean_fca_derived_share": 0.395
+  }
+ },
+ "qa_link": {
+  "direct": {
+   "correct_questions": 12,
+   "mean_coverage_when_correct": 1.0,
+   "mean_coverage_when_wrong": 0.4,
+   "correct_but_not_fully_covered": 0
+  },
+  "fca_full": {
+   "correct_questions": 14,
+   "mean_coverage_when_correct": 0.986,
+   "mean_coverage_when_wrong": 0.333,
+   "correct_but_not_fully_covered": 1
+  }
+ },
+ "disagreeing_questions": [
+  {
+   "id": "nrel_04",
+   "direct_correct": 0,
+   "fca_correct": 1,
+   "direct_cov": 1.0,
+   "fca_cov": 1.0
+  },
+  {
+   "id": "nrel_05",
+   "direct_correct": 1,
+   "fca_correct": 0,
+   "direct_cov": 1.0,
+   "fca_cov": 1.0
+  },
+  {
+   "id": "nrel_09",
+   "direct_correct": 0,
+   "fca_correct": 1,
+   "direct_cov": 0.8,
+   "fca_cov": 0.8
+  },
+  {
+   "id": "nrel_15",
+   "direct_correct": 0,
+   "fca_correct": 1,
+   "direct_cov": 1.0,
+   "fca_cov": 1.0
+  }
+ ]
+}

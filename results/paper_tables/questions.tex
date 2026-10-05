@@ -1,0 +1,39 @@
+\tiny
+\setlength{\tabcolsep}{2.0pt}
+\renewcommand{\arraystretch}{0.48}
+\begin{longtable}{L{0.06\textwidth}L{0.13\textwidth}L{0.65\textwidth}L{0.08\textwidth}}
+\caption{Frozen graph-only competency-question dataset; codes are defined in Table~\ref{tab:codelegend}.}\label{tab:questions}\\
+\toprule
+ID & Family & Question & Gold answer\\
+\midrule
+\endfirsthead
+\multicolumn{4}{c}{\tablename\ \thetable\ -- continued}\\
+\toprule
+ID & Family & Question & Gold answer\\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+S1 & Taxonomy & Which direct superclass code(s) are explicitly asserted for G? Return sorted codes joined by |, or UNKNOWN. & \texttt{E|F}\\
+S2 & Taxonomy & Which direct superclass code(s) are explicitly asserted for E? Return sorted codes joined by |, or UNKNOWN. & \texttt{D}\\
+S3 & Taxonomy & Which direct superclass code(s) are explicitly asserted for F? Return sorted codes joined by |, or UNKNOWN. & \texttt{D}\\
+S4 & Taxonomy & Which direct superclass code(s) are explicitly asserted for A? Return sorted codes joined by |, or UNKNOWN. & \texttt{E}\\
+S5 & Taxonomy & Which direct superclass code(s) are explicitly asserted for B? Return sorted codes joined by |, or UNKNOWN. & \texttt{G}\\
+S6 & Taxonomy & Which direct superclass code(s) are explicitly asserted for C? Return sorted codes joined by |, or UNKNOWN. & \texttt{F}\\
+S7 & Taxonomy & Which direct subclass code(s) are explicitly asserted for D? Return sorted codes joined by |, or UNKNOWN. & \texttt{E|F}\\
+D0 & Domain & What is the explicit domain class code of property 0? Return one code or UNKNOWN. & \texttt{D}\\
+D1 & Domain & What is the explicit domain class code of property 1? Return one code or UNKNOWN. & \texttt{D}\\
+D2 & Domain & What is the explicit domain class code of property 2? Return one code or UNKNOWN. & \texttt{D}\\
+D3 & Domain & What is the explicit domain class code of property 3? Return one code or UNKNOWN. & \texttt{E}\\
+D4 & Domain & What is the explicit domain class code of property 4? Return one code or UNKNOWN. & \texttt{F}\\
+D5 & Domain & What is the explicit domain class code of property 5? Return one code or UNKNOWN. & \texttt{F}\\
+I0 & Inverse & What is the explicit inverse-property code of property 0? Return one inverse code or UNKNOWN. & \texttt{I0}\\
+I3 & Inverse & What is the explicit inverse-property code of property 3? Return one inverse code or UNKNOWN. & \texttt{I3}\\
+I5 & Inverse & What is the explicit inverse-property code of property 5? Return one inverse code or UNKNOWN. & \texttt{I5}\\
+R4 & Range & What is the explicit range class code of property 4? Return one code or UNKNOWN. & \texttt{H}\\
+R5 & Range & What is the explicit range class code of property 5? Return one code or UNKNOWN. & \texttt{H}\\
+N1 & Taxonomy & Which direct superclass code(s) are explicitly asserted for H? Return sorted codes joined by |, or UNKNOWN. & \texttt{UNKNOWN}\\
+N2 & Taxonomy & Is G explicitly a direct subclass of D? Answer YES or NO. & \texttt{NO}\\
+N3 & Taxonomy & Is B explicitly a direct subclass of D? Answer YES or NO. & \texttt{NO}\\
+N4 & Inverse & Is I0 explicitly the inverse property of property 1? Answer YES or NO. & \texttt{NO}\\
+\end{longtable}

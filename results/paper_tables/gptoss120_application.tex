@@ -1,0 +1,18 @@
+\begin{table*}[tbp]
+\centering
+\caption{Source-grounded GPT-OSS 120B construction, direct versus FCA-backed graph.}
+\label{tab:gptoss120-application}
+\small
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{lrrrrrrr}
+\toprule
+Condition & Statements & Nodes & FCA concepts & Exact QA & Atom recall & Grounded QA & Valid citations \\
+\midrule
+Direct KG & 137 & 205 & 0 & 35.3\% & 44.5\% & 44.1\% & 55.9\% \\
+FCA-backed KG & 410 & 226 & 21 & \textbf{41.2\%} & \textbf{48.5\%} & \textbf{58.8\%} & \textbf{58.8\%} \\
+\midrule
+FCA minus direct & +273 & +21 & +21 & +5.9 pp & +4.0 pp & +14.7 pp & +2.9 pp \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

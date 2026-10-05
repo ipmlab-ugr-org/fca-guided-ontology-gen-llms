@@ -1,0 +1,56 @@
+{
+ "hierarchy": {
+  "cover_edges": 19,
+  "concepts_in_hierarchy": 21,
+  "longest_chain_edges": 1
+ },
+ "redundant_statements_direct": 6,
+ "redundant_statements_fca": 6,
+ "degree_direct": {
+  "gini": 0.196,
+  "median": 1,
+  "isolated_nodes": 0
+ },
+ "degree_fca": {
+  "gini": 0.387,
+  "median": 2.0,
+  "isolated_nodes": 0
+ },
+ "communities_direct": {
+  "count_nonsingleton": 74,
+  "modularity": 0.976
+ },
+ "communities_fca": {
+  "count_nonsingleton": 8,
+  "modularity": 0.554
+ },
+ "robustness_direct": {
+  "5pct": {
+   "random_lcc_frac": 0.043,
+   "targeted_lcc_frac": 0.029
+  },
+  "10pct": {
+   "random_lcc_frac": 0.042,
+   "targeted_lcc_frac": 0.015
+  },
+  "20pct": {
+   "random_lcc_frac": 0.039,
+   "targeted_lcc_frac": 0.01
+  }
+ },
+ "robustness_fca": {
+  "5pct": {
+   "random_lcc_frac": 0.482,
+   "targeted_lcc_frac": 0.044
+  },
+  "10pct": {
+   "random_lcc_frac": 0.453,
+   "targeted_lcc_frac": 0.035
+  },
+  "20pct": {
+   "random_lcc_frac": 0.395,
+   "targeted_lcc_frac": 0.027
+  }
+ },
+ "fca_after_removing_two_broad_hubs_lcc_frac": 0.093
+}

@@ -1,0 +1,70 @@
+{
+  "seed": 20261005,
+  "draws": 2000,
+  "docs": {
+    "nrel_82704": 100,
+    "suzlon_wdoq179": 105
+  },
+  "concept_docs": {
+    "suzlon_wdoq179": 7,
+    "nrel_82704": 14
+  },
+  "observed": {
+    "components": 2,
+    "largest_frac": 0.504,
+    "diameter_lcc": 4,
+    "avg_path_lcc": 2.181,
+    "mean_degree": 3.407,
+    "max_degree": 105
+  },
+  "null": {
+    "components": {
+      "mean": 2,
+      "sd": 0.0,
+      "min": 2,
+      "max": 2,
+      "share_null_le_obs": 1.0,
+      "share_null_ge_obs": 1.0
+    },
+    "largest_frac": {
+      "mean": 0.504,
+      "sd": 0.0,
+      "min": 0.504,
+      "max": 0.504,
+      "share_null_le_obs": 1.0,
+      "share_null_ge_obs": 1.0
+    },
+    "diameter_lcc": {
+      "mean": 4,
+      "sd": 0.0,
+      "min": 4,
+      "max": 4,
+      "share_null_le_obs": 1.0,
+      "share_null_ge_obs": 1.0
+    },
+    "avg_path_lcc": {
+      "mean": 2.18,
+      "sd": 0.001,
+      "min": 2.175,
+      "max": 2.183,
+      "share_null_le_obs": 0.636,
+      "share_null_ge_obs": 0.4145
+    },
+    "mean_degree": {
+      "mean": 3.407,
+      "sd": 0.0,
+      "min": 3.407,
+      "max": 3.407,
+      "share_null_le_obs": 1.0,
+      "share_null_ge_obs": 1.0
+    },
+    "max_degree": {
+      "mean": 105,
+      "sd": 0.0,
+      "min": 105,
+      "max": 105,
+      "share_null_le_obs": 1.0,
+      "share_null_ge_obs": 1.0
+    }
+  }
+}

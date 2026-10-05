@@ -1,0 +1,16 @@
+\begin{table*}[t]
+\centering
+\caption{The four questions where exact-answer correctness differed between conditions (30 of 34 tied). Text is trimmed for space; full answers are in the GitHub repository.}
+\label{tab:nontied}
+\small
+\begin{tabular}{@{}p{1.5cm}p{2.5cm}p{1.3cm}p{4.6cm}p{4.6cm}@{}}
+\toprule
+Question & Category & Winner & Direct-KG answer & FCA-backed-KG answer \\
+\midrule
+nrel\_04 & Oil condition & FCA & Insufficient graph evidence (no matching July 2012 reading found) & 849 ppm; 300 ppm \\
+nrel\_05 & Maintenance history & Direct & Particles were noted in the oil filter. & Insufficient graph evidence \\
+nrel\_09 & Operating condition & FCA & 18.3 rpm rated speed, wind 8--25 m/s, rated power above 11 m/s & Same content, phrased over a wind-speed interval; scored a strict-match miss on the direct answer \\
+nrel\_15 & Oil temperature & FCA & Insufficient graph evidence & 40\textdegree C to 60\textdegree C \\
+\bottomrule
+\end{tabular}
+\end{table*}

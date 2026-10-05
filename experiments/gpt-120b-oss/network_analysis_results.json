@@ -1,0 +1,78 @@
+{
+  "direct": {
+    "nodes": 205,
+    "edges": 131,
+    "density": 0.0063,
+    "mean_degree": 1.28,
+    "max_degree": 7,
+    "components": 74,
+    "largest_component": 9,
+    "largest_frac": 0.044,
+    "isolated_pairs_reachable": 0.013,
+    "avg_shortest_path_lcc": 2.44,
+    "diameter_lcc": 4,
+    "clustering": 0.0,
+    "max_betweenness_lcc": 0.643
+  },
+  "fca": {
+    "nodes": 226,
+    "edges": 404,
+    "density": 0.0159,
+    "mean_degree": 3.58,
+    "max_degree": 113,
+    "components": 2,
+    "largest_component": 114,
+    "largest_frac": 0.504,
+    "isolated_pairs_reachable": 0.498,
+    "avg_shortest_path_lcc": 1.97,
+    "diameter_lcc": 2,
+    "clustering": 0.833,
+    "max_betweenness_lcc": 0.973
+  },
+  "n_concepts": 21,
+  "statements_fca": 410,
+  "concept_extent_sizes": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    100,
+    105
+  ],
+  "hubremoval10_direct": {
+    "largest_frac": 0.031,
+    "components": 108
+  },
+  "hubremoval10_fca": {
+    "largest_frac": 0.505,
+    "components": 2
+  },
+  "ablate_concepts_recovers_direct": true,
+  "drop_broad_concepts": {
+    "removed": 2,
+    "components": 63,
+    "largest_component": 21,
+    "largest_frac": 0.094,
+    "edges": 180
+  },
+  "keep_only_broad_concepts": {
+    "components": 2,
+    "largest_component": 106,
+    "largest_frac": 0.512
+  }
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "nrel_01",
+    "document_id": "nrel_82704",
+    "category": "asset_identity",
+    "question": "What was the model number of the original gearbox installed in the NREL turbine?",
+    "required_answer_atoms": [["7ga87e2"]]
+  },
+  {
+    "id": "nrel_02",
+    "document_id": "nrel_82704",
+    "category": "installation_timeline",
+    "question": "Where was the GE 1.5-megawatt wind turbine installed, and when did its first operations begin?",
+    "required_answer_atoms": [["national wind technology center", "flatirons campus"], ["colorado"], ["september 2009", "end of september 2009"]]
+  },
+  {
+    "id": "nrel_03",
+    "document_id": "nrel_82704",
+    "category": "failure_timeline",
+    "question": "When was micropitting first identified, and at approximately how many operating hours?",
+    "required_answer_atoms": [["november 2015", "11 2015", "11/6/15"], ["8000", "8 000"]]
+  },
+  {
+    "id": "nrel_04",
+    "document_id": "nrel_82704",
+    "category": "oil_condition",
+    "question": "What water-content-in-oil reading was reported in July 2012, and what recommended value for used polyalphaolefin oil does the report cite?",
+    "required_answer_atoms": [["849", "849 ppm"], ["300", "300 ppm"]]
+  },
+  {
+    "id": "nrel_05",
+    "document_id": "nrel_82704",
+    "category": "maintenance_history",
+    "question": "What was found in the oil filter during the January 2015 inspection?",
+    "required_answer_atoms": [["particles", "particles in the oil filter"]]
+  },
+  {
+    "id": "nrel_06",
+    "document_id": "nrel_82704",
+    "category": "oil_condition",
+    "question": "How did the Castrol Optigear A320 oil viscosity change over the installation period, and was it within the cited recommendation?",
+    "required_answer_atoms": [["330", "330 mm2/s", "330 square millimeters per second"], ["310", "310 mm2/s", "310 square millimeters per second"], ["within", "recommended range", "plus or minus 10"]]
+  },
+  {
+    "id": "nrel_07",
+    "document_id": "nrel_82704",
+    "category": "scada_coverage",
+    "question": "On what date do the 10-minute SCADA records begin, and what is the maximum operational time they could be missing?",
+    "required_answer_atoms": [["february 17 2010", "2/17/2010", "february 17, 2010"], ["845", "845 hours"]]
+  },
+  {
+    "id": "nrel_08",
+    "document_id": "nrel_82704",
+    "category": "operating_condition",
+    "question": "Below approximately what wind speed did the turbine operate at about 11 rpm, and what power ceiling is reported for that condition?",
+    "required_answer_atoms": [["5", "5 m/s", "5 meters per second"], ["11 rpm", "11 revolutions per minute"], ["150", "150 kw"]]
+  },
+  {
+    "id": "nrel_09",
+    "document_id": "nrel_82704",
+    "category": "operating_condition",
+    "question": "What is the rated rotor speed, over what wind-speed interval does it occur, and at about what wind speed are rated 1,500 kW achieved?",
+    "required_answer_atoms": [["18.3", "18.3 rpm"], ["above 8", "8 m/s"], ["25", "25 m/s", "cut out"], ["11", "11 m/s"], ["1500", "1,500 kw"]]
+  },
+  {
+    "id": "nrel_10",
+    "document_id": "nrel_82704",
+    "category": "high_resolution_data",
+    "question": "What dates bound the 1-Hz operational data examined in the report, and why are these data more useful than 10-minute averages for usage representation?",
+    "required_answer_atoms": [["march 22 2016", "3/22/2016"], ["december 2017"], ["more accurate", "accurate representation"]]
+  },
+  {
+    "id": "nrel_11",
+    "document_id": "nrel_82704",
+    "category": "high_resolution_data",
+    "question": "Which three channels were identified as the 1-Hz channels of interest?",
+    "required_answer_atoms": [["in_rotorspd", "rotor speed"], ["ai_cutorqueact", "high speed shaft torque"], ["ai_ingridmonrealpoweract", "active power"]]
+  },
+  {
+    "id": "nrel_12",
+    "document_id": "nrel_82704",
+    "category": "high_resolution_data",
+    "question": "What additional operating condition is discernible in the 1-second data in terms of rotor speed, torque, and maximum power?",
+    "required_answer_atoms": [["12.7", "12.7 rpm"], ["2", "2 kn m", "2 knm"], ["260", "260 kw"]]
+  },
+  {
+    "id": "nrel_13",
+    "document_id": "nrel_82704",
+    "category": "summary_metrics",
+    "question": "At gearbox removal, what were the reported grid-operation hours, energy production, and fraction of the minimum 20-year design life?",
+    "required_answer_atoms": [["14174", "14,174"], ["6000000", "6 million", "6,000,000"], ["8%", "8 percent"]]
+  },
+  {
+    "id": "nrel_14",
+    "document_id": "nrel_82704",
+    "category": "failure_mode",
+    "question": "On which gearbox part did the report document micropitting, and what type of fatigue phenomenon is micropitting described as?",
+    "required_answer_atoms": [["sun pinion"], ["hertzian fatigue", "asperity level fatigue", "asperity-level fatigue"]]
+  },
+  {
+    "id": "nrel_15",
+    "document_id": "nrel_82704",
+    "category": "oil_temperature",
+    "question": "According to the report summary, between what temperatures was the gearbox oil sump temperature overwhelmingly observed?",
+    "required_answer_atoms": [["40", "40 c", "40°c"], ["60", "60 c", "60°c"]]
+  },
+  {
+    "id": "nrel_16",
+    "document_id": "nrel_82704",
+    "category": "maintenance_record",
+    "question": "What oil condition and water-content reading were recorded during the September 2017 maintenance and oil sample?",
+    "required_answer_atoms": [["black sludge", "sludge"], ["890", "890 ppm"]]
+  },
+  {
+    "id": "check_01",
+    "document_id": "suzlon_wdoq179",
+    "category": "scope",
+    "question": "For which frequency variants and temperature versions is the half-yearly Suzlon S88-2.1 MW checklist valid?",
+    "required_answer_atoms": [["50 hz", "50 h2"], ["60 hz", "60 h2"], ["standard temperature version", "stv"], ["low temperature version", "ltv"]]
+  },
+  {
+    "id": "check_02",
+    "document_id": "suzlon_wdoq179",
+    "category": "premaintenance",
+    "question": "Before starting maintenance, which list must be completed, what prior information must be reviewed, and who should be consulted about deviations?",
+    "required_answer_atoms": [["general data"], ["remarks of the last maintenance", "last maintenance remarks"], ["o&m department", "operations and maintenance department"]]
+  },
+  {
+    "id": "check_03",
+    "document_id": "suzlon_wdoq179",
+    "category": "nonconformance",
+    "question": "If a checklist item is marked Not OK and remains uncorrected, what must happen before the turbine is put back into operation when the issue is detrimental?",
+    "required_answer_atoms": [["repaired", "repair"], ["before", "prior"], ["operation", "put into operation"]]
+  },
+  {
+    "id": "check_04",
+    "document_id": "suzlon_wdoq179",
+    "category": "safety_test",
+    "question": "What outcome should occur when the test button of an RCCB earth-leakage protection device is pressed?",
+    "required_answer_atoms": [["trip", "should trip"]]
+  },
+  {
+    "id": "check_05",
+    "document_id": "suzlon_wdoq179",
+    "category": "safety_test",
+    "question": "What two actions are required for the maximum temperatures listed in the control system?",
+    "required_answer_atoms": [["check", "check the maximum temperatures"], ["note", "record"], ["reset", "reset the maximum list"]]
+  },
+  {
+    "id": "check_06",
+    "document_id": "suzlon_wdoq179",
+    "category": "operational_check",
+    "question": "How should the gearbox's operational behaviour be inspected during WTG operation?",
+    "required_answer_atoms": [["listen", "listen and feel"], ["feel", "listen and feel"]]
+  },
+  {
+    "id": "check_07",
+    "document_id": "suzlon_wdoq179",
+    "category": "gearbox_maintenance",
+    "question": "What is the required maintenance action for the silica-gel breather in the gearbox section?",
+    "required_answer_atoms": [["change", "replace"]]
+  },
+  {
+    "id": "check_08",
+    "document_id": "suzlon_wdoq179",
+    "category": "gearbox_maintenance",
+    "question": "Who is permitted to check the gearbox tooth system?",
+    "required_answer_atoms": [["specialized gearbox persons", "specialised gearbox persons", "specialized", "specialised"]]
+  },
+  {
+    "id": "check_09",
+    "document_id": "suzlon_wdoq179",
+    "category": "gearbox_maintenance",
+    "question": "How is the mechanical pump's function checked, and in what WTG operating state?",
+    "required_answer_atoms": [["visual inspection", "visual"], ["inspection lid"], ["idling", "idling slowly"]]
+  },
+  {
+    "id": "check_10",
+    "document_id": "suzlon_wdoq179",
+    "category": "lubrication",
+    "question": "What volume of gearbox oil sample is required and which procedure does the checklist reference?",
+    "required_answer_atoms": [["100 ml", "100ml"], ["wdo0030", "wd00030"]]
+  },
+  {
+    "id": "check_11",
+    "document_id": "suzlon_wdoq179",
+    "category": "lubrication",
+    "question": "Under what condition and after what waiting period should the gearbox oil level be checked through the level glass?",
+    "required_answer_atoms": [["standing still", "stopped"], ["30 minutes", "30 minute"]]
+  },
+  {
+    "id": "check_12",
+    "document_id": "suzlon_wdoq179",
+    "category": "hose_inspection",
+    "question": "What is the guaranteed hose lifetime, and what must occur if a hose is found damaged, cut, or imbrued?",
+    "required_answer_atoms": [["5 years", "five years"], ["exchange", "replace"]]
+  },
+  {
+    "id": "check_13",
+    "document_id": "suzlon_wdoq179",
+    "category": "yaw_lubrication",
+    "question": "What are the minimum and recommended intervals for greasing the yaw gear rim and pinion?",
+    "required_answer_atoms": [["half yearly", "half-yearly", "half yearly maintenance"], ["monthly", "month"]]
+  },
+  {
+    "id": "check_14",
+    "document_id": "suzlon_wdoq179",
+    "category": "brake_inspection",
+    "question": "How is the brake air gap checked, and what brake condition is specified?",
+    "required_answer_atoms": [["measure", "measure the clearance"], ["passive callipers", "passive calipers"], ["brake is open", "open"]]
+  },
+  {
+    "id": "check_15",
+    "document_id": "suzlon_wdoq179",
+    "category": "generator_maintenance",
+    "question": "How should the generator slip ring be cleaned, and which procedure is cited?",
+    "required_answer_atoms": [["vacuum cleaner", "vacuum"], ["lint free soft cloth", "lint-free soft cloth"], ["wdo0036", "wd00036"]]
+  },
+  {
+    "id": "check_16",
+    "document_id": "suzlon_wdoq179",
+    "category": "grounding",
+    "question": "What work step is required for the earthing strip at the gearbox housing?",
+    "required_answer_atoms": [["retighten", "re tighten"], ["bolt connections", "bolts"]]
+  },
+  {
+    "id": "check_17",
+    "document_id": "suzlon_wdoq179",
+    "category": "hydraulic_system",
+    "question": "What is the specified inspection for hydraulic pipelines?",
+    "required_answer_atoms": [["visual", "visual check"], ["corrosion", "cracks", "crack"]]
+  },
+  {
+    "id": "check_18",
+    "document_id": "suzlon_wdoq179",
+    "category": "control_system",
+    "question": "What is the maintenance step for the alarm call?",
+    "required_answer_atoms": [["initiate an alarm", "initiate"]]
+  }
+]
